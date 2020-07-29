@@ -76,8 +76,8 @@ STYLING_CONFIG = {
 # search API key, and name of your index from Algolia.
 # For details, please refer to https://github.com/pitosalas/coursegen/blob/master/README.md.
 SEARCH_CONFIG = {
-  api_key: '855a55e631c6523e8201162e6d9c1e9c',
-  index_name: 'coolcourse',
+  api_key: '759b344ad1e2bc2c6d494bb6a28c7fe6',
+  index_name: 'tlfaq',
   # APP_ID is only used if you are running DocSearch on your own.
   app_id: '',
   debug: false
